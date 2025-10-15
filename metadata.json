@@ -1,0 +1,7 @@
+{
+  "name": "Roger AI",
+  "description": "A Roger AI application with text and voice interaction modes, conversation history, and a modern interface, powered by the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
